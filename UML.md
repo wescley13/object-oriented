@@ -1,7 +1,7 @@
 ## UML (UNIFIED MODELING LANGUAGE)
 
 ### Definition
-- Stadart method to document object-oriented
+- Standard method to document object-oriented
 - Represents all the concepts that exists in object-oriented analysis and design
 - Diagrams are a representation of object-oriented concepts only 
 - Way of visualizing and documeting the system
